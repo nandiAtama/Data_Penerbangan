@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1704388861 source:d:\semester_3\strukdat\codeblocks\data_penerbangan\main.cpp
+	"header.h"
+
+1704388864 d:\semester_3\strukdat\codeblocks\data_penerbangan\header.h
+	<iostream>
+
+1704638423 source:d:\semester_3\strukdat\codeblocks\data_penerbangan\primitif.cpp
+	"header.h"
+
