@@ -367,6 +367,10 @@ adr_Penumpang searchDataChildPadaParent(listpenerbangan L, string kode, string n
 //MENU
 //==============================================================================================================================
 void menu() {
+    cout << "Tugas besar Struktur Data" << endl;
+    cout << "NANDI TRIANA       (1303223079)" << endl;
+    cout << "ANJU MANGINAR A.S. (1303223065)" << endl;
+    
     cout << "==========================" << endl;
     cout << "=                        =" << endl;
     cout << "=    DATA PENERBANGAN    =" << endl;
